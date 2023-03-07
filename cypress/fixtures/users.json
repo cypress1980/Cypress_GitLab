@@ -1,0 +1,11 @@
+[{
+  "name": "Test 1 Using fixtures to represent data",
+  "email": "hello1@cypress.io",
+  "desc": "Data from Fixtures are a great way to mock data for responses to routes"
+},
+{
+  "name": "Test 2 Using fixtures to represent data",
+  "email": "hello2@cypress.io",
+  "desc": "Data from Fixtures are a great way to mock data for responses to routes"
+}
+]
